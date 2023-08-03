@@ -14,17 +14,17 @@ global.packname = 'Made With'
 global.author = 'Bot WhatsApp'
 
 //INI WAJIB DI ISI!//
-global.btc = 'YOUR_APIKEY_HERE' 
+global.btc = 'tMNbXw3t' 
 //Daftar terlebih dahulu https://api.botcahx.live
 
-global.lann = 'YOUR_APIKEY_HERE'
+global.lann = 'nYMY9YvD'
 //Daftar terlebih dahulu https://api.betabotz.org 
 
 global.APIs = {   
   btc: 'https://api.botcahx.live'
 }
 global.APIKeys = { 
-  'https://api.botcahx.live': 'Apikey' 
+  'https://api.botcahx.live': 'tMNbXw3t' 
 }
 
 let fs = require('fs')
