@@ -167,8 +167,8 @@ text = typeof conn.menu == 'string' ? conn.menu : typeof conn.menu == 'object' ?
                         mediaType: 1,
                         previewType: 0,
                         renderLargerThumbnail: true,
-                        thumbnailUrl: 'https://telegra.ph/file/3a34bfa58714bdef500d9.jpg',
-                        sourceUrl: 'https://api.botcahx.live'
+                        thumbnailUrl: 'https://telegra.ph/file/4957af3e6e9d4f4f66056.png',
+                        sourceUrl: 'https://saweria.co/YUSUP909'
                     }
                 }, mentions: [m.sender]
 }}, {})
